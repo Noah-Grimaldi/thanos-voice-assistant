@@ -4,6 +4,8 @@ A voice assistant that listens through your default microphone and responds thro
 
 If you're using the vertexai for the personal assistant follow [`these steps`](https://cloud.google.com/vertex-ai/docs/start/client-libraries#python) and at the bottom be sure to also install the python SDK for it.
 
+To run every function of this program you will need an API key for youtube.
+
 To install dependencies simply run
 ```
 pip install -r requirements.txt
